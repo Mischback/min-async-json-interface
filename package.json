@@ -1,10 +1,21 @@
 {
+  "name": "@mischback/min-async-json-interface",
+  "description": "DRY implementation to interface JSON files",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mischback/min-async-json-interface.git"
+  },
+  "author": "Mischback",
+  "license": "MIT",
+  "homepage": "https://github.com/Mischback/min-async-json-interface#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
-    "@typescript-eslint/parser": "^5.0.0",
-    "clean-publish": "^3.4.2",
-    "eslint": "^8.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/parser": "^5.3.1",
+    "clean-publish": "^3.4.3",
+    "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
     "jest": "^27.2.5",
     "lint-staged": "^11.2.3",
