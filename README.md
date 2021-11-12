@@ -1,11 +1,4 @@
-# node-module-skeleton
+# min-async-json-interface
 
-A skeleton to create TypeScript-based NodeJS modules
+DRY implementation to interface JSON files
 
-## Usage
-
-- create a new repository on Github and select this repository as template
-- clone the new repository
-- cd into the directory
-- `make util/githooks`
-- hack away
