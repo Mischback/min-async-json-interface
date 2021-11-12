@@ -1,2 +1,3 @@
+// SPDX-License-Identifier: MIT
 
-console.log("foobar");
+export { JsonInterfaceError, loadJsonFromFile, writeJsonToFile } from "./json-interface";
