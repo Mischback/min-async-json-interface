@@ -82,7 +82,7 @@ jobs:
 
 
   finish:
-    name: Indicate Completion to Coveralls.io
+    name: Finish
     needs: testing
     runs-on: ubuntu-latest
     steps:
