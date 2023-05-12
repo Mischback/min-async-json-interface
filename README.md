@@ -9,3 +9,11 @@
 ![GitHub License](https://img.shields.io/github/license/mischback/min-async-json-interface?style=flat)
 
 DRY implementation to interface JSON files
+
+## Out of Maintanence
+
+_min-async-json-interface_ is **out of maintenance** until further notice.
+
+There will be no additional features, and **no bugfixes**. If you're interested
+in taking over this project, you may use GitHub to get in touch (e.g. by
+posting an issue in this repository).
