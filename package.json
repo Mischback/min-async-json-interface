@@ -1,7 +1,7 @@
 {
   "name": "@mischback/min-async-json-interface",
   "description": "DRY implementation to interface JSON files",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
